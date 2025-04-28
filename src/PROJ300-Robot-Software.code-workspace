@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../PROJ300-Robot-Software"
+		},
+		{
+			"name": "PROJ300-PC-Serial-Interface",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
